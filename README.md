@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 - 🤖 Data Scientist specializing in **Computer Vision & Deep Learning**.  
 - 🏆 Passionate about building AI models for **image processing, object detection, and facial recognition**.  
-- 🔍 Experienced in **CNNs, OpenCV, YOLO, and GANs**.  
+- 🔍 Experienced in **CNNs, OpenCV, YOLO, and GANs, VisionTransformers**.  
 - 💡 Love experimenting with **AI in healthcare, autonomous driving, and augmented reality**.  
 - 🤝 Open to collaborating on **computer vision projects and research**.  
 
