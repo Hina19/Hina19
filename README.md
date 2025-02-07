@@ -2,9 +2,9 @@
 # Hi there, I'm Hina 👋  
 
 ## 🚀 About Me  
-- 🤖 Data Scientist specializing in **Computer Vision & Deep Learning**.  
-- 🏆 Passionate about building AI models for **image processing, object detection, and facial recognition**.  
-- 🔍 Experienced in **CNNs, OpenCV, YOLO, and GANs, VisionTransformers**.  
+- 🤖 Data Scientist specializing in **Computer Vision & Deep Learning**.
+- 🏆 Passionate about solving real-world problems with **data-driven insights**..
+- 🔍 Experienced in **CNNs, OpenCV, YOLO, and Generative Models, VisionTransformers**.  
 - 💡 Love experimenting with **AI in healthcare, autonomous driving, and augmented reality**.  
 - 🤝 Open to collaborating on **computer vision projects and research**.  
 
