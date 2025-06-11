@@ -5,8 +5,7 @@
 - 🤖 Data Scientist specializing in **Computer Vision & Deep Learning**.
 - 🏆 Passionate about solving real-world problems with **data-driven insights**..
 - 🔍 Experienced in **CNNs, OpenCV, YOLO, and Generative Models, VisionTransformers**.  
-- 💡 Love experimenting with **AI in healthcare, autonomous driving, and augmented reality**.  
-- 🤝 Open to collaborating on **computer vision projects and research**.  
+  
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -17,12 +16,6 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-## 🔥 Featured Computer Vision Projects  
-- 🏥 **[Medical Image Segmentation using U-Net](#)**  
-- 🚗 **[Autonomous Vehicle Object Detection (YOLOv8)](#)**  
-- 🎨 **[AI-Powered Image Style Transfer](#)**  
-- 🧑‍🤝‍🧑 **[Face Recognition & Emotion Detection](#)**  
 
 ## 🌎 Connect with Me
 - (https://www.linkedin.com/in/hinasharma19/)
